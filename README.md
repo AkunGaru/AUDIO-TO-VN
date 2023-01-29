@@ -38,7 +38,7 @@
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
-* Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-alpha](https://wa.me/62887435047326)
+* ──────────────────────── *
+* ──────────────────────── *
 
 # 
