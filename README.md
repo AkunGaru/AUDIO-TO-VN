@@ -37,7 +37,7 @@
 > Alpahbot-Md adalah bot yang memakai base dari [Chikabot](https://github.com/rashidsiregar28/chikabot/blob/main/README.md) . Alphabot-Md is a bot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
-## Bugs and Tester
+## ⩹╊━━━━━╉⩺
 * ─────────────────── •
 * ─────────────────── •
 
