@@ -38,7 +38,7 @@
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
-* ──────────────────────── *
-* ──────────────────────── *
+* ────────────────────
+* ────────────────────
 
 # 
